@@ -1,3 +1,15 @@
+.navbar{
+    font-family:'roboto';
+}
 body { 
-    padding-top: 65px; 
+    padding-top: 65px;
+    font-family:'italic';
+}
+@font-face{
+    src:url(../fonts/roboto/Roboto-Italic.ttf);
+    font-family:'italic';
+}
+@font-face{
+    src:url(../fonts/roboto/Roboto-Light.ttf);
+    font-family:'roboto';
 }
